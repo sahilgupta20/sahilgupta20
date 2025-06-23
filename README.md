@@ -1,16 +1,23 @@
-## Hi there 👋
+# SahilGupta-readme
+for freelance work? do reach, email :)
+# Hi, I'm Sahil 👋
 
-<!--
-**sahilgupta20/sahilgupta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | MASc in Software Engineering @ MUN  
+Previously @ Nagarro | Backend Dev @ Simpleshow GmbH  
+St. John’s, NL 🇨🇦 • (https://www.linkedin.com/in/sahil-gupta-050336153/) • sahilg@mun.ca
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack  
+React, Node.js, Spring Boot, Python, C#, SQL, MongoDB, AWS, Docker, Git
+
+
+### Projects  
+- **MediSync** – Full-stack healthcare app with AI symptom checker  
+- **Simpleshow Video Maker** – Backend features for an AI-based explainer tool  
+- **Huber Apps** – Enterprise solutions for IT ops and order workflows  
+- **Blue Plate Website** – WordPress-based business site
+
+
+### Open to  
+Full-time roles in backend, full-stack, or cloud development
+
