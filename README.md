@@ -1,6 +1,6 @@
 # SahilGupta-readme
-for freelance work? do reach, email :)
- Hi, I'm Sahil this is my personal github account and i dont use this for most of my projects, below are some freetime hand's on👋
+for freelance work? do reach, email- ribhugupta20@gmail.com :)   
+Hi, I'm Sahil this is my personal github account and i dont use this for most of my projects, below are some freetime hand's on👋
 
 Software Developer | MASc in Software Engineering @ MUN  
 Previously @ Nagarro | Backend Dev @ Simpleshow GmbH  
