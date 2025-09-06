@@ -1,10 +1,9 @@
 <h3 align="left">Hi, I'm Sahil this is my personal github account and i dont use this for most of my projects, below are some freetime hand's on👋<br><br>Software Developer | MASc in Software Engineering @ MUN<br>Previously @ Nagarro | Full Stack Dev <br>St. John’s, NL 🇨🇦 • (https://www.linkedin.com/in/sahil-gupta-050336153/) • sahilg@mun.ca</h3>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilgupta20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sahilgupta20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sahilgupta20&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
