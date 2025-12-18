@@ -61,6 +61,8 @@
 
 
 ### Projects  
+- **Fraud Detection System** – Serverless ML pipeline for real-time transaction scoring. Built with XGBoost, Lambda, API Gateway, DynamoDB. 96% accuracy, <500ms latency. 
+- **Medicare Assistant (PWA app)** – Full-stack Medicine Reminder app with 3 level escalation. 
 - **MediSync** – Full-stack healthcare app with AI symptom checker  
 - **Simpleshow Video Maker** – Backend features for an AI-based explainer tool  
 - **Huber Apps** – Enterprise solutions for IT ops and order workflows  
